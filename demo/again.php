@@ -1,3 +1,3 @@
 <?php
-    echo "I am Saida's Jamai";
+    echo "I am Mim's Jamai";
 ?>
