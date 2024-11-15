@@ -10,6 +10,10 @@
 
     <?Php
 
+        $number = new input();
+
+        
+
         $name = 'md jahangir alam';
         $read = true;
 
