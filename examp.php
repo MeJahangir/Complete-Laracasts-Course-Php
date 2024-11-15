@@ -4,4 +4,5 @@ function FunctionName($names, $num) {
 }
 $result = FunctionName(200, 100);
 echo "$result";
+// test code;
 ?>
